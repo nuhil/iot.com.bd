@@ -1,0 +1,23 @@
+/*!
+ * Start Bootstrap - The Big Picture HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+
+	color: white;
+	/* text-shadow: 1px 1px 5px rgba(106, 129, 145, 1); */
+	text-shadow: 1px 1px 10px rgba(32, 53, 23, 1);	
+}
+
+.full {
+  background: url(../images/iot.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
